@@ -6,6 +6,7 @@ public class Animal {
 	private String eats;
 	private String name;
 	
+	
 	public Animal(boolean isVeg, String eats, String name) {
 		this.isVeg=isVeg;
 		this.eats=eats;
